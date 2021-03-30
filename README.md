@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @imsamm04
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning reactjs/nodejs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-imsamm04/imsamm04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Open and friendly.
+- 👀 Love to learn new things, especially things related to Frontend stacks.
+- 💞️ Enjoy working with ReactJS ❤
